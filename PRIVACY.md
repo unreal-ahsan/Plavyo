@@ -13,6 +13,10 @@ analytics and no tracking, and its developer does not run any server that receiv
   FTP or WebDAV are stored only in the app's private database on your phone. They are sent only
   to the server you configured, when you connect to it.
 
+- **Private folder.** Videos you hide are moved into a hidden folder on your own storage. The
+  list of their original locations and your PIN (stored only as a one-way hash, never the PIN
+  itself) are kept in the app's private storage on your phone and are never sent anywhere.
+
 ## Network activity
 
 - **Streaming:** Plavyo connects directly from your phone to the servers or links you choose.

@@ -15,7 +15,10 @@ Free, with no ads, no tracking and no accounts.
   - **Scan** your Wi-Fi to find computers and NAS drives automatically.
   - Connect with just the server's address: Plavyo lists every shared folder for you.
   - Smooth playback of large, high-bitrate files over Wi-Fi with fast seeking.
+- **Enhance**: one tap for richer colours and smoother gradients.
+- **Private folder**: hide videos from your gallery and other apps behind a PIN.
 - Subtitles: embedded, external, and auto-loaded from the same folder (also on network shares).
+  Drag subtitles up/down, pinch to resize, swipe for the next/previous line.
 - Gestures for seeking, volume and brightness; playback speed; picture-in-picture.
 - Material You design with light and dark themes.
 
